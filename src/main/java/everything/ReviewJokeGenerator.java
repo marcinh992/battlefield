@@ -6,6 +6,9 @@ import java.io.InputStreamReader;
 import java.net.URL;
 import java.util.Scanner;
 
+//description
+//corrected code sended from https://github.com/KrystianRybicki/simple-joke-generator/blob/main/jokeChuckNorris.java
+
 public class ReviewJokeGenerator {
     public static void main(String[] args) {
         printGameRules();
